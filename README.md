@@ -1,5 +1,3 @@
-Link to app: https://chat-application-c6445.web.app/users/svNN38B45XqK6mZxzi9l
-
 ![Screenshot (253)](https://user-images.githubusercontent.com/52904509/92994528-a08f7d80-f518-11ea-8cb5-23160b9a5f1b.png)
 
 In the project directory, you can run:
